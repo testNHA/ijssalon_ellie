@@ -23,4 +23,5 @@ def print_aanbieding():
         else:
             print(el.lower())
 
+decoreer("Aanbieding")
 print_aanbieding()

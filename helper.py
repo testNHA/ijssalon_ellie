@@ -1,4 +1,4 @@
-def decoreer(tekst=""):
+test
     lengte = len(tekst) + 4
     print()
     print(lengte * "*")
